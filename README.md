@@ -1,1 +1,1 @@
-This project is a Product and Order Management System developed using Spring Boot, designed to provide a RESTful API for managing products and processing orders. The system leverages MySQL as the database and includes comprehensive documentation using Swagger/OpenAPI for ease of use.
+This project is a Product and Order Management System developed using Spring Boot, designed to provide a RESTful API for managing products and processing orders. The system leverages MySQL as the database and includes comprehensive documentation using Swagger for ease of use.
